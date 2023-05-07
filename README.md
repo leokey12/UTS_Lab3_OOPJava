@@ -15,4 +15,9 @@ method yang digunakan untuk mengatur (set) dan mengambil (get) nilai dari atribu
 ![Screenshot (1491)](https://user-images.githubusercontent.com/89975719/236688968-1745ebb3-46c6-4ec8-80a7-cace08420dfe.png)
 #### Reverse Perkata
 ![Screenshot (1492)](https://user-images.githubusercontent.com/89975719/236689159-ac9838a2-187f-4d5f-997d-564864eaeb98.png)
+
 3. Hasil Output Nomor 3
+![Screenshot (1738)](https://user-images.githubusercontent.com/89975719/236689403-4f171e30-a3e4-4d88-91fc-14d5ac3c2404.png)
+
+4.Hasil Output Nomor 4
+
