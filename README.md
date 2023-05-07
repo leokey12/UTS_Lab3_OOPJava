@@ -10,4 +10,6 @@ kemampuan untuk memiliki beberapa method dengan nama yang sama di dalam sebuah c
 #### e. Method setter dan getter
 method yang digunakan untuk mengatur (set) dan mengambil (get) nilai dari atribut pada sebuah objek. Method setter digunakan untuk mengubah nilai atribut, sedangkan method getter digunakan untuk mengambil nilai atribut.
 
-2.Hasil Output nomor 2
+2. Hasil Output nomor 2
+#### Reverse Huruf
+![Screenshot (1491)](https://user-images.githubusercontent.com/89975719/236688968-1745ebb3-46c6-4ec8-80a7-cace08420dfe.png)
