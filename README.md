@@ -19,5 +19,6 @@ method yang digunakan untuk mengatur (set) dan mengambil (get) nilai dari atribu
 3. Hasil Output Nomor 3
 ![Screenshot (1738)](https://user-images.githubusercontent.com/89975719/236689403-4f171e30-a3e4-4d88-91fc-14d5ac3c2404.png)
 
-4.Hasil Output Nomor 4
+4. Hasil Output Nomor 4
+![image](https://user-images.githubusercontent.com/89975719/236689534-e45ddca8-887b-46b7-b1be-20ed850b9b04.png)
 
