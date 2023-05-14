@@ -34,11 +34,18 @@ public class Employee {
         return salary * 12;
     }
     public int raiseSalary(int percent) {
-        salary += salary * percent / 100;
+        if (percent < 0){
+            System.out.println("nilai persentase tidak boleh bernilai negatif");
+        }
+        else {
+            salary += salary * percent / 100;
+        }
         return salary;
     }
 
+
     public String toString() {
-        return "Employee[id=" + id + ",name=" + getName() + ",salary=" + salary + "]";
+        return "Employee[id= " + id + ", name= " + getName() + ", salary= " + salary + "]";
     }
 }
+
